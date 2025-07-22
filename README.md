@@ -28,4 +28,4 @@ Contributions and suggestions are welcome! Feel free to fork this repository and
 ---
 ## License
 ---
-This project is open-source and available under the [Link](https://github.com/Shehu-Yakubu/)MIT License.
+This project is open-source and available under the [MIT License](https://github.com/Shehu-Yakubu/).
